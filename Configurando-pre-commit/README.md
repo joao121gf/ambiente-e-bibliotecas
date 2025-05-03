@@ -3,7 +3,7 @@
 
 ### 🎯Configurando o Pre-Commit Passo a Passo
 
-```markdown
+
 # Como Configurar o Pre-Commit Passo a Passo
 
 O **Pre-Commit** é uma ferramenta poderosa para garantir que o seu código esteja sempre limpo e dentro dos padrões definidos antes de ser commitado. Neste tutorial, vamos configurar o Pre-Commit passo a passo.
