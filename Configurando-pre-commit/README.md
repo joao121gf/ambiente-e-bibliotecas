@@ -1,7 +1,7 @@
 
 ---
 
-### 🎯Configurando o Pre-Commit Passo a Passo**
+### 🎯Configurando o Pre-Commit Passo a Passo
 
 ```markdown
 # Como Configurar o Pre-Commit Passo a Passo
