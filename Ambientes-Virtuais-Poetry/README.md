@@ -1,4 +1,4 @@
-# Como Criar e Gerenciar Ambientes Virtuais com o Poetry (e sem ele)
+🎯# Como Criar e Gerenciar Ambientes Virtuais com o Poetry (e sem ele)
 
 Neste tutorial, vamos aprender como criar e gerenciar ambientes virtuais para projetos Python, usando o **Poetry**. Embora seja preferível usar o **Poetry** por sua facilidade na gestão de dependências e ambientes virtuais, também vamos mostrar como configurar um ambiente virtual manualmente com o **venv** (passo 5) para quem não usa o Poetry.
 
@@ -73,7 +73,7 @@ poetry shell
 
 Isso garante que o ambiente virtual está ativado e você pode começar a desenvolver no projeto.
 
-## 5: Criando um Ambiente Virtual Manualmente (sem Poetry)
+🎯## 5: Criando um Ambiente Virtual Manualmente (sem Poetry)
 
 Se você preferir não usar o Poetry, pode criar um ambiente virtual manualmente com o venv:
 
