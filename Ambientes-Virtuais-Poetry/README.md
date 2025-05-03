@@ -73,7 +73,7 @@ poetry shell
 
 Isso garante que o ambiente virtual está ativado e você pode começar a desenvolver no projeto.
 
-🎯## 5: Criando um Ambiente Virtual Manualmente (sem Poetry)
+## 🎯5: Criando um Ambiente Virtual Manualmente (sem Poetry)
 
 Se você preferir não usar o Poetry, pode criar um ambiente virtual manualmente com o venv:
 
